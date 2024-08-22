@@ -61,13 +61,6 @@ Exemplo de como as medalhas são exibidas:
 
 ![Medalhas de Ouro](img_trabai/Gold_medal.png) ![Medalhas de Prata](img_trabai/Silver_medal.png) ![Medalhas de Bronze](img_trabai/Bronze_medal.png)
 
-### Interatividade com JavaScript
-
-O site utiliza JavaScript para adicionar funcionalidades interativas, como:
-
-- **Atualização Dinâmica de Notícias**: A seção de notícias é atualizada automaticamente para garantir que os usuários recebam as últimas informações sem precisar recarregar a página.
-- **Validação de Formulário**: O formulário de contato na página principal inclui validação de entrada para garantir que os usuários forneçam informações corretas antes de enviar uma mensagem.
-
 ### Arquivos CSS
 
 O estilo do site é gerenciado por um arquivo CSS localizado na pasta `/css/`. Este arquivo controla o layout, as cores, as fontes e outros aspectos visuais do site para garantir uma aparência coesa e profissional.
