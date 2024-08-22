@@ -1,4 +1,4 @@
-# Time Olímpico do Brasil - Site Informativo
+# Time Olímpico do Brasil - Atividade Avaliativa
 
 ## Descrição
 
